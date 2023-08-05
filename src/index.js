@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <I18nextProvider i18n={i18n}>
       <Provider store={store}>
         {/* <PersistGate loading={null} persistor={persistor}> */}
-        <BrowserRouter basename="/final-project-frontend">
+        <BrowserRouter basename="/react_node_fs_67_KhailoAndrey">
           <App />
         </BrowserRouter>
         {/* </PersistGate> */}
