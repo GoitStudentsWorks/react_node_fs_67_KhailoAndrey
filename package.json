@@ -2,7 +2,7 @@
   "name": "final-project-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KhailoAndrey/final-project-frontend/",
+  "homepage": "https://GoitStudentsWorks/react_node_fs_67_KhailoAndrey/",
   "dependencies": {
     "@blueprintjs/core": "^5.1.4",
     "@mui/material": "^5.14.1",
